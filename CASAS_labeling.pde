@@ -13,7 +13,7 @@ BufferedReader sensor_data_reader = null;
 BufferedReader sensor_label_reader = null;
 BufferedWriter sensor_label_writer = null;
 
-final int limit = 10; 
+final int limit = 40; 
 
 boolean reading_progress = false;
 
